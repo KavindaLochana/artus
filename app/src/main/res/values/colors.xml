@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Aspect ratio selection colors -->
+    <color name="aspect_ratio_background">#F5F5F5</color>
+    <color name="aspect_ratio_stroke">#E0E0E0</color>
+    <color name="aspect_ratio_selected_background">#6200EE</color>
+    <color name="aspect_ratio_selected_stroke">#3700B3</color>
+    <color name="aspect_ratio_text_color">@color/black</color>
 </resources>

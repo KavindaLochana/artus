@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">artus</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="save_to_gallery">Save to Gallery</string>
+    <string name="frame_thickness">Frame Thickness</string>
+    <string name="aspect_ratio">Aspect Ratio</string>
+    <string name="image_preview">Image Preview</string>
 </resources>
